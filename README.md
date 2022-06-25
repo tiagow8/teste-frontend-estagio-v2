@@ -1,6 +1,8 @@
 # Teste Frontend estágio V2
 
-![Aiko](img/aiko.png)
+![aiko](https://user-images.githubusercontent.com/87425936/175783836-79f26160-e8b3-43de-b838-9dd583490491.png)
+
+
 
 Neste teste serão avaliados seus conhecimentos em Javascript, HTML e CSS, a criatividade e metodologia aplicada no desenvolvimento, a usabilidade e design da aplicação final.
 
